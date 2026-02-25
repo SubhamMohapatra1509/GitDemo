@@ -1,2 +1,2 @@
 # GitDemo
-hyy my name is subham !!!
+This is a Demo for Git &amp; Github class.
